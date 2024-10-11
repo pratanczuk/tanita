@@ -1,4 +1,4 @@
-# tanita - smartweight adapter to load data from Tannita device to the web page via web sockets
+# tanita - smartweight adapter to load data from Tanita device to the web page via web sockets
 
 I. Structure
 	Release
