@@ -1,0 +1,81 @@
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:0
+00:11  INFO: Event received, data len:265
+00:11  INFO: Message from tanita stored
+00:11  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:11  INFO: Event received, data len:0
+00:11  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+00:11  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+00:11  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+00:11  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+00:11  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+00:11  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+00:11  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+00:11  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+00:11  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+00:11  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+00:11  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+00:11  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+00:11  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+00:11  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+00:11  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+00:11  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+00:11  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+00:11  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:01  INFO: Connecting to com port:COM13
+00:01  INFO: Port succesfully conected
+00:56  INFO: Socket set
+00:56  INFO: Websocket client connected, counter:0
+00:59  INFO: Event received, data len:265
+00:59  INFO: Message from tanita stored
+00:59  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:59  INFO: Event received, data len:0
+00:59  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+00:59  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+00:59  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+00:59  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+00:59  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+00:59  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+00:59  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+00:59  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+00:59  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+00:59  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+00:59  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+00:59  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+00:59  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+00:59  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+00:59  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+00:59  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+00:59  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+00:59  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+01:21  INFO: Websocket client disconnected
+01:22  INFO: Socket set
+01:22  INFO: Websocket client connected, counter:0
+01:28  INFO: Websocket client disconnected
+01:37  INFO: Socket set
+01:37  INFO: Websocket client connected, counter:0
+984:05  INFO: Websocket client disconnected
+2744:31  INFO: Event received, data len:265
+2744:31  INFO: Message from tanita stored
+2744:31  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+2744:32  INFO: Event received, data len:0
+2744:33  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+2744:33  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+2744:33  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+2744:33  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+2744:33  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+2744:33  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+2744:33  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+2744:33  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+2744:33  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+2744:33  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+2744:33  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+2744:33  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+2744:33  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+2744:33  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+2744:33  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+2744:33  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+2744:33  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+2744:33  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}

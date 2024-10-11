@@ -1,0 +1,38 @@
+Control data;{0;16; ;
+Control data;~0;1; ;
+Control data;~1;1; ;
+Control data;~2;1; ;
+Model;MO;"""XXXXXX"""; ;
+Serial No.;SN;"""XXXXXXXX"""; ;
+ID number;ID;"""XXXXXXXXXX"""; ;
+Date (dd/mm/yyyy);Da;"""dd/mm/yyyy"""; ;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+Time;TI;hh:mm; ;
+Body type;Bt;X; ;edit-field-fit-body-type-und
+Gender;GE;X; ;
+Age;AG;XX; ;
+Height;Hm;XXX.X;cm;edit-field-fit-body-height-und-0-value
+Clothes (tare);Pt;XX.X;kg;
+Weight;Wk;XXX.X;kg;edit-field-fit-body-weight-und-0-value
+Body fat %;FW;XX.X;%;edit-field-fit-body-fat-percentage-und-0-value
+Fat mass;fW;XXX.X;kg;edit-field-fit-body-fat-mass-und-0-value
+Fat free mass;MW;XXX.X;kg;edit-field-fit-body-lean-mass-und-0-value
+Muscle mass;mW;XXX.X;kg;edit-field-fit-body-muscle-mass-und-0-value
+Muscle score;sW;XX; ;
+Bone mass;bW;XXX.X;kg;edit-field-fit-body-bone-mass-und-0-value
+TBW;wW;XXX.X;kg;edit-field-fit-body-total-water-und-0-value
+TBW %;ww;XXX.X; ;edit-field-fit-body-water-percentage-und-0-value
+BMI;MI;XXX.X;kg;edit-field-fit-body-bmi-und-0-value
+Standard body weight;Sw;XXX.X;kg;edit-field-fit-target-weight-und-0-value
+Degree of obesity;OV;XX.XX;%;edit-field-fit-fat-rate-und-0-value
+Visceral fat rating;IF;XX; ;edit­field­fit­body­fat­intestinal­und­0­value
+BMR (kJ);rb;XXXXX;kJ;edit­field­fit­body­energy­needs­und­0­value
+BMR (kcal);rB;XXXXX;kcal;
+BMR score;rJ;XX; ;
+Metabolic age;rA;XX; ;edit­field­fit­body­metabolic­age­und­0­value
+Rohrer's index;RO;XXXX.X; ;
+Target body fat %;gF;XX; ;edit-field-fit-target-fat-percent-und-0-value
+Predicted weight;gW;XXX.X; ;
+Predicted fat mass;gf;XXX.X; ;edit-field-fit-target-fat-weight-und-0-value
+Fat to gain / lese;gt;XXXXX; ;
+Impedance;ZF;XXXXX; ;
+Checksum;CS;XX; ;

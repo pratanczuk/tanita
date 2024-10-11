@@ -1,0 +1,839 @@
+00:00  INFO: Connecting to com port:COM1
+00:00 ERROR: jssc.SerialPortException: Port name - COM1; Method name - openPort(); Exception type - Port not found.
+00:00  INFO: Connecting to com port:COM1
+00:00 ERROR: jssc.SerialPortException: Port name - COM1; Method name - openPort(); Exception type - Port not found.
+00:00  INFO: Connecting to com port:COM1
+00:00 ERROR: jssc.SerialPortException: Port name - COM1; Method name - openPort(); Exception type - Port not found.
+00:00  INFO: Connecting to com port:COM1
+00:10  INFO: Websocket client connected, counter:0
+00:15  INFO: Websocket client disconnected
+00:15  INFO: Websocket client connected, counter:0
+75:48  INFO: Websocket message received:jj
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Connecting to com port:COM13
+00:03  INFO: Socket set
+00:03  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:08  INFO: Socket set
+00:08  INFO: Websocket client connected, counter:0
+00:16  INFO: Event received, data len:530
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:0
+00:07  INFO: Event received, data len:265
+00:07  INFO: Message from tanita stored
+00:07  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:07  INFO: Event received, data len:0
+02:04  INFO: Event received, data len:265
+02:04  INFO: Message from tanita stored
+02:04  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+02:04  INFO: Event received, data len:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:04  INFO: Socket set
+00:04  INFO: Websocket client connected, counter:0
+00:09  INFO: Event received, data len:265
+00:09  INFO: Message from tanita stored
+00:09  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:09  INFO: Event received, data len:0
+00:09  INFO: Lock released
+00:20  INFO: Event received, data len:265
+00:20  INFO: Message from tanita stored
+00:20  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:20  INFO: Event received, data len:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:06  INFO: Socket set
+00:06  INFO: Websocket client connected, counter:0
+00:10  INFO: Event received, data len:265
+00:10  INFO: Message from tanita stored
+00:10  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:10  INFO: Event received, data len:0
+00:10  INFO: Lock released
+00:18  INFO: Event received, data len:265
+00:18  INFO: Message from tanita stored
+00:18  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:18  INFO: Event received, data len:0
+00:18  INFO: Lock released
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:05  INFO: Event received, data len:265
+00:05  INFO: Message from tanita stored
+00:05  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:05  INFO: Event received, data len:0
+00:05  INFO: Lock released
+00:05 ERROR: Null WEB socket
+00:11  INFO: Event received, data len:265
+00:11  INFO: Message from tanita stored
+00:11  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:11  INFO: Event received, data len:0
+00:11  INFO: Lock released
+00:11 ERROR: Null WEB socket
+00:16  INFO: Socket set
+00:16  INFO: Websocket client connected, counter:0
+00:22  INFO: Event received, data len:265
+00:22  INFO: Message from tanita stored
+00:22  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:22  INFO: Event received, data len:0
+00:22  INFO: Lock released
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:04  INFO: Socket set
+00:04  INFO: Websocket client connected, counter:0
+00:09  INFO: Event received, data len:265
+00:09  WARN: Message overwritten, problem with web socket ?
+00:09  INFO: Message from tanita stored
+00:09  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:09  INFO: Event received, data len:0
+00:09  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:20  INFO: Event received, data len:265
+00:20  WARN: Message overwritten, problem with web socket ?
+00:20  INFO: Message from tanita stored
+00:20  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:20  INFO: Event received, data len:0
+00:20  INFO: Lock released, message send to websocket:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:24  INFO: Event received, data len:265
+00:24  WARN: Message overwritten, problem with web socket ?
+00:24  INFO: Message from tanita stored
+00:24  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:24  INFO: Event received, data len:0
+00:24  INFO: Lock released, message send to websocket:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:44  INFO: Event received, data len:265
+00:44  WARN: Message overwritten, problem with web socket ?
+00:44  INFO: Message from tanita stored
+00:44  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:44  INFO: Event received, data len:0
+00:44  INFO: Lock released, message send to websocket:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:0
+02:17  INFO: Websocket client disconnected
+02:17  INFO: Socket set
+02:17  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:01  INFO: Socket set
+00:01  INFO: Websocket client connected, counter:0
+00:04  INFO: Socket set
+00:04  INFO: Websocket client connected, counter:1
+00:11  INFO: Socket set
+00:11  INFO: Websocket client connected, counter:2
+00:14  INFO: Socket set
+00:14  INFO: Websocket client connected, counter:3
+00:21  INFO: Socket set
+00:21  INFO: Websocket client connected, counter:4
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+01:39  INFO: Socket set
+01:39  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:0
+00:06  INFO: Socket set
+00:06  INFO: Websocket client connected, counter:1
+00:12  INFO: Socket set
+00:12  INFO: Websocket client connected, counter:2
+00:16  INFO: Socket set
+00:16  INFO: Websocket client connected, counter:3
+00:22  INFO: Socket set
+00:22  INFO: Websocket client connected, counter:4
+00:26  INFO: Socket set
+00:26  INFO: Websocket client connected, counter:5
+01:32  INFO: Websocket client disconnected
+01:32  INFO: Websocket client disconnected
+01:32  INFO: Websocket client disconnected
+01:32  INFO: Websocket client disconnected
+01:32  INFO: Websocket client disconnected
+01:32  INFO: Websocket client disconnected
+01:32  INFO: Socket set
+01:32  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+01:08  INFO: Socket set
+01:08  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:01  INFO: Socket set
+00:01  INFO: Websocket client connected, counter:0
+00:07  INFO: Socket set
+00:07  INFO: Websocket client connected, counter:1
+00:11  INFO: Socket set
+00:11  INFO: Websocket client connected, counter:2
+00:17  INFO: Socket set
+00:17  INFO: Websocket client connected, counter:3
+00:21  INFO: Socket set
+00:21  INFO: Websocket client connected, counter:4
+00:27  INFO: Socket set
+00:27  INFO: Websocket client connected, counter:5
+03:09  INFO: Websocket client disconnected
+03:09  INFO: Websocket client disconnected
+03:09  INFO: Websocket client disconnected
+03:09  INFO: Websocket client disconnected
+03:09  INFO: Websocket client disconnected
+03:09  INFO: Websocket client disconnected
+03:09  INFO: Socket set
+03:09  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Socket set
+00:00  INFO: Websocket client connected, counter:0
+00:06  INFO: Socket set
+00:06  INFO: Websocket client connected, counter:1
+00:09  INFO: Socket set
+00:09  INFO: Websocket client connected, counter:2
+00:16  INFO: Socket set
+00:16  INFO: Websocket client connected, counter:3
+00:19  INFO: Socket set
+00:19  INFO: Websocket client connected, counter:4
+00:26  INFO: Socket set
+00:26  INFO: Websocket client connected, counter:5
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:0
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:1
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:2
+00:03  INFO: Websocket client disconnected
+00:05  INFO: Websocket client disconnected
+00:05  INFO: Websocket client disconnected
+00:05  INFO: Socket set
+00:05  INFO: Websocket client connected, counter:0
+00:12  INFO: Websocket client disconnected
+00:12  INFO: Socket set
+00:12  INFO: Websocket client connected, counter:0
+00:12  INFO: Socket set
+00:12  INFO: Websocket client connected, counter:1
+00:12  INFO: Socket set
+00:12  INFO: Websocket client connected, counter:2
+00:12  INFO: Socket set
+00:12  INFO: Websocket client connected, counter:3
+00:17  INFO: Websocket client disconnected
+00:18  INFO: Websocket client disconnected
+00:18  INFO: Websocket client disconnected
+00:22  INFO: Websocket client disconnected
+00:22  INFO: Socket set
+00:22  INFO: Websocket client connected, counter:0
+00:22  INFO: Socket set
+00:22  INFO: Websocket client connected, counter:1
+00:22  INFO: Socket set
+00:22  INFO: Websocket client connected, counter:2
+00:22  INFO: Socket set
+00:22  INFO: Websocket client connected, counter:3
+00:25  INFO: Websocket client disconnected
+00:26  INFO: Websocket client disconnected
+00:27  INFO: Websocket client disconnected
+00:27  INFO: Websocket client disconnected
+00:27  INFO: Socket set
+00:27  INFO: Websocket client connected, counter:0
+00:28  INFO: Websocket client disconnected
+00:28  INFO: Socket set
+00:28  INFO: Websocket client connected, counter:0
+00:32  INFO: Websocket client disconnected
+00:32  INFO: Socket set
+00:32  INFO: Websocket client connected, counter:0
+00:32  INFO: Socket set
+00:32  INFO: Websocket client connected, counter:1
+00:32  INFO: Socket set
+00:32  INFO: Websocket client connected, counter:2
+00:32  INFO: Socket set
+00:32  INFO: Websocket client connected, counter:3
+00:42  INFO: Websocket client disconnected
+00:42  INFO: Websocket client disconnected
+00:42  INFO: Websocket client disconnected
+00:43  INFO: Websocket client disconnected
+00:43  INFO: Socket set
+00:43  INFO: Websocket client connected, counter:0
+00:44  INFO: Websocket client disconnected
+00:44  INFO: Socket set
+00:44  INFO: Websocket client connected, counter:0
+00:44  INFO: Socket set
+00:44  INFO: Websocket client connected, counter:1
+00:45  INFO: Websocket client disconnected
+00:46  INFO: Websocket client disconnected
+00:46  INFO: Socket set
+00:46  INFO: Websocket client connected, counter:0
+00:47  INFO: Websocket client disconnected
+00:47  INFO: Socket set
+00:47  INFO: Websocket client connected, counter:0
+00:48  INFO: Websocket client disconnected
+00:48  INFO: Socket set
+00:48  INFO: Websocket client connected, counter:0
+01:35  INFO: Websocket client disconnected
+01:35  INFO: Socket set
+01:35  INFO: Websocket client connected, counter:0
+01:35  INFO: Socket set
+01:35  INFO: Websocket client connected, counter:1
+01:35  INFO: Socket set
+01:35  INFO: Websocket client connected, counter:2
+01:35  INFO: Socket set
+01:35  INFO: Websocket client connected, counter:3
+01:35  INFO: Socket set
+01:35  INFO: Websocket client connected, counter:4
+01:36  INFO: Websocket client disconnected
+01:36  INFO: Websocket client disconnected
+01:37  INFO: Websocket client disconnected
+01:37  INFO: Websocket client disconnected
+01:37  INFO: Websocket client disconnected
+01:38  INFO: Socket set
+01:38  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Socket set
+00:00  INFO: Websocket client connected, counter:0
+00:03  INFO: Socket set
+00:03  INFO: Websocket client connected, counter:1
+00:06  INFO: Socket set
+00:06  INFO: Websocket client connected, counter:2
+00:08  INFO: Socket set
+00:08  INFO: Websocket client connected, counter:3
+00:13  INFO: Socket set
+00:13  INFO: Websocket client connected, counter:4
+00:16  INFO: Socket set
+00:16  INFO: Websocket client connected, counter:5
+02:07  INFO: Websocket client disconnected
+02:07  INFO: Websocket client disconnected
+02:07  INFO: Websocket client disconnected
+02:07  INFO: Websocket client disconnected
+02:07  INFO: Websocket client disconnected
+02:07  INFO: Websocket client disconnected
+02:07  INFO: Socket set
+02:07  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:06  INFO: Socket set
+00:06  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:07  INFO: Socket set
+00:07  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: Info: Prot succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00 ERROR: jssc.SerialPortException: Port name - COM13; Method name - openPort(); Exception type - Port busy.
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:25  INFO: Socket set
+00:25  INFO: Websocket client connected, counter:0
+01:29  INFO: Event received, data len:265
+01:29  INFO: Message from tanita stored
+01:29  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+01:29  INFO: Event received, data len:0
+01:29  INFO: Entry send to browser:{0; 
+01:29  INFO: Entry send to browser:~0; 
+01:29  INFO: Entry send to browser:~1; 
+01:29  INFO: Entry send to browser:~2; 
+01:29  INFO: Entry send to browser:MO; 
+01:29  INFO: Entry send to browser:SN; 
+01:29  INFO: Entry send to browser:ID; 
+01:29  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+01:29  INFO: Entry send to browser:TI; 
+01:29  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+01:29  INFO: Entry send to browser:GE; 
+01:29  INFO: Entry send to browser:AG; 
+01:29  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+01:29  INFO: Entry send to browser:Pt; 
+01:29  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+01:29  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+01:29  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+01:29  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+01:29  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+01:29  INFO: Entry send to browser:sW; 
+01:29  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+01:29  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+01:29  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+01:29  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+01:29  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+01:29  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+01:29  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+01:29  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+01:29  INFO: Entry send to browser:rB; 
+01:29  INFO: Entry send to browser:rJ; 
+01:29  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+01:29  INFO: Entry send to browser:ZF; 
+01:29  INFO: Entry send to browser:CS; 
+01:29  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:02  INFO: Socket set
+00:02  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:08  INFO: Event received, data len:265
+00:08  INFO: Message from tanita stored
+00:08  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:08  INFO: Event received, data len:0
+00:08 ERROR: Null WEB socket
+00:19  INFO: Socket set
+00:19  INFO: Websocket client connected, counter:0
+00:26  INFO: Event received, data len:265
+00:26  WARN: Message overwritten, problem with web socket ?
+00:26  INFO: Message from tanita stored
+00:26  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:26  INFO: Event received, data len:0
+00:26 ERROR: Error: Item not found
+00:26 ERROR: Problem during parsing input string:java.lang.RuntimeException: Element not found on list
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:07  INFO: Socket set
+00:07  INFO: Websocket client connected, counter:0
+00:12  INFO: Event received, data len:265
+00:12  INFO: Message from tanita stored
+00:12  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:12  INFO: Event received, data len:0
+00:12  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:12  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:12  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:12  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:12  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:12  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:12  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:12  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:12  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:12  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:12  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:12  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:12  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:12  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:12  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:12  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:12  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:12  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:30  INFO: Event received, data len:265
+00:30  INFO: Message from tanita stored
+00:30  INFO: Data from device:
+{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:30 ERROR: Error: Item not found
+00:30 ERROR: Problem during parsing input string:java.lang.RuntimeException: Element not found on list
+00:30  INFO: Event received, data len:0
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:04  INFO: Event received, data len:265
+00:04  INFO: Message from tanita stored
+00:04  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:04 ERROR: Null WEB socket
+00:04  INFO: Event received, data len:0
+00:22  INFO: Event received, data len:265
+00:22  WARN: Message overwritten, problem with web socket ?
+00:22  INFO: Message from tanita stored
+00:22  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:22 ERROR: Null WEB socket
+00:22  INFO: Event received, data len:0
+00:42  INFO: Socket set
+00:42  INFO: Websocket client connected, counter:0
+00:44  INFO: Event received, data len:265
+00:44  WARN: Message overwritten, problem with web socket ?
+00:44  INFO: Message from tanita stored
+00:44  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:44  INFO: Event received, data len:0
+00:44  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:44  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:44  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:44  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:44  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:44  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:44  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:44  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:44  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:44  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:44  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:44  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:44  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:44  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:44  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:44  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:44  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:44  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:48  INFO: Event received, data len:265
+00:48  INFO: Message from tanita stored
+00:48  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:48  INFO: Event received, data len:0
+00:48  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:48  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:48  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:48  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:48  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:48  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:48  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:48  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:48  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:48  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:48  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:48  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:48  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:48  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:48  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:48  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:48  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:48  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:14  INFO: Socket set
+00:14  INFO: Websocket client connected, counter:0
+00:15  INFO: Event received, data len:265
+00:15  INFO: Message from tanita stored
+00:15  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:15  INFO: Event received, data len:0
+00:15  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:15  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:15  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:15  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:15  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:15  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:15  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:15  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:15  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:15  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:15  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:15  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:15  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:15  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:15  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:15  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:15  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:15  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:21  INFO: Event received, data len:265
+00:21  INFO: Message from tanita stored
+00:21  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:21  INFO: Event received, data len:0
+00:21  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:21  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:21  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:21  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:21  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:21  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:21  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:21  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:21  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:21  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:21  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:21  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:21  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:21  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:21  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:21  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:21  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:21  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:25  INFO: Event received, data len:265
+00:25  INFO: Message from tanita stored
+00:25  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:25  INFO: Event received, data len:0
+00:25  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:25  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:25  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:25  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:25  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:25  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:25  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:25  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:25  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:25  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:25  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:25  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:25  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:25  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:25  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:25  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:25  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:25  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:03  INFO: Event received, data len:265
+00:03  INFO: Message from tanita stored
+00:03  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:03  INFO: Event received, data len:0
+00:03 ERROR: Null WEB socket
+00:11  INFO: Event received, data len:265
+00:11  WARN: Message overwritten, problem with web socket ?
+00:11  INFO: Message from tanita stored
+00:11  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:11 ERROR: Null WEB socket
+00:11  INFO: Event received, data len:0
+00:41  INFO: Socket set
+00:41  INFO: Websocket client connected, counter:0
+00:49  INFO: Event received, data len:265
+00:49  WARN: Message overwritten, problem with web socket ?
+00:49  INFO: Message from tanita stored
+00:49  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:49  INFO: Event received, data len:0
+00:49  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:49  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:49  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:49  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:49  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:49  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:49  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:49  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:49  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:49  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:49  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:49  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:49  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:49  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:49  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:49  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:49  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:49  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:53  INFO: Event received, data len:265
+00:53  INFO: Message from tanita stored
+00:53  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:53  INFO: Event received, data len:0
+00:53  INFO: Entry send to browser:Da;edit-field-fit-measurement-date-und-0-value-datepicker-popup-0
+00:53  INFO: Entry send to browser:Bt;edit-field-fit-body-type-und
+00:53  INFO: Entry send to browser:Hm;edit-field-fit-body-height-und-0-value
+00:53  INFO: Entry send to browser:Wk;edit-field-fit-body-weight-und-0-value
+00:53  INFO: Entry send to browser:FW;edit-field-fit-body-fat-percentage-und-0-value
+00:53  INFO: Entry send to browser:fW;edit-field-fit-body-fat-mass-und-0-value
+00:53  INFO: Entry send to browser:MW;edit-field-fit-body-lean-mass-und-0-value
+00:53  INFO: Entry send to browser:mW;edit-field-fit-body-muscle-mass-und-0-value
+00:53  INFO: Entry send to browser:bW;edit-field-fit-body-bone-mass-und-0-value
+00:53  INFO: Entry send to browser:wW;edit-field-fit-body-total-water-und-0-value
+00:53  INFO: Entry send to browser:ww;edit-field-fit-body-water-percentage-und-0-value
+00:53  INFO: Entry send to browser:MI;edit-field-fit-body-bmi-und-0-value
+00:53  INFO: Entry send to browser:Sw;edit-field-fit-target-weight-und-0-value
+00:53  INFO: Entry send to browser:OV;edit-field-fit-fat-rate-und-0-value
+00:53  INFO: Entry send to browser:IF;edit­field­fit­body­fat­intestinal­und­0­value
+00:53  INFO: Entry send to browser:rb;edit­field­fit­body­energy­needs­und­0­value
+00:53  INFO: Entry send to browser:rA;edit­field­fit­body­metabolic­age­und­0­value
+00:53  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:05  INFO: Event received, data len:265
+00:05  INFO: Event received, data len:0
+00:09  INFO: Event received, data len:265
+00:09  INFO: Event received, data len:0
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:03  INFO: Event received, data len:265
+00:03  INFO: Message from tanita stored
+00:03  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:03  INFO: Event received, data len:0
+00:03 ERROR: Null WEB socket
+00:07  INFO: Event received, data len:265
+00:07  WARN: Message overwritten, problem with web socket ?
+00:07  INFO: Message from tanita stored
+00:07  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:07  INFO: Event received, data len:0
+00:07 ERROR: Null WEB socket
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:03  INFO: Event received, data len:265
+00:03  INFO: Event received, data len:0
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:02  INFO: Event received, data len:265
+00:02  INFO: Message from tanita stored
+00:02  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:02  INFO: Event received, data len:0
+00:02 ERROR: Null WEB socket
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+03:19  INFO: Socket set
+03:19  INFO: Websocket client connected, counter:0
+03:28  INFO: Event received, data len:265
+03:28  INFO: Message from tanita stored
+03:28  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+03:28  INFO: Event received, data len:0
+03:28  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+03:28  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+03:28  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+03:28  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+03:28  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+03:28  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+03:28  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+03:28  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+03:28  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+03:28  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+03:28  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+03:28  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+03:28  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+03:28  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+03:28  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+03:28  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+03:28  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+03:28  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+04:59  INFO: Websocket client disconnected
+04:59  INFO: Socket set
+04:59  INFO: Websocket client connected, counter:0
+05:05  INFO: Event received, data len:265
+05:05  INFO: Message from tanita stored
+05:05  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+05:05  INFO: Event received, data len:0
+05:05  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+05:05  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+05:05  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+05:05  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+05:05  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+05:05  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+05:05  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+05:05  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+05:05  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+05:05  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+05:05  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+05:05  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+05:05  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+05:05  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+05:05  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+05:05  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+05:05  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+05:05  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+05:42  INFO: Websocket client disconnected
+05:43  INFO: Socket set
+05:43  INFO: Websocket client connected, counter:0
+05:50  INFO: Event received, data len:265
+05:50  INFO: Message from tanita stored
+05:50  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+05:50  INFO: Event received, data len:0
+05:50  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+05:50  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+05:50  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+05:50  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+05:50  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+05:50  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+05:50  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+05:50  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+05:50  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+05:50  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+05:50  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+05:50  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+05:50  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+05:50  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+05:50  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+05:50  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+05:50  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+05:50  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+06:15  INFO: Websocket client disconnected
+06:16  INFO: Socket set
+06:16  INFO: Websocket client connected, counter:0
+06:33  INFO: Event received, data len:265
+06:33  INFO: Message from tanita stored
+06:33  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+06:33  INFO: Event received, data len:0
+06:33  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+06:33  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+06:33  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+06:33  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+06:33  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+06:33  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+06:33  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+06:33  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+06:33  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+06:33  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+06:33  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+06:33  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+06:33  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+06:33  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+06:33  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+06:33  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+06:33  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+06:33  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+07:47  INFO: Websocket client disconnected
+07:47  INFO: Socket set
+07:47  INFO: Websocket client connected, counter:0
+07:50  INFO: Websocket client disconnected
+07:51  INFO: Socket set
+07:51  INFO: Websocket client connected, counter:0
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:07  INFO: Socket set
+00:07  INFO: Websocket client connected, counter:0
+00:57  INFO: Websocket client disconnected
+00:58  INFO: Socket set
+00:58  INFO: Websocket client connected, counter:0
+02:21  INFO: Websocket client disconnected
+02:21  INFO: Socket set
+02:21  INFO: Websocket client connected, counter:0
+02:25  INFO: Event received, data len:265
+02:25  INFO: Message from tanita stored
+02:25  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+02:25  INFO: Event received, data len:0
+02:25  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+02:25  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+02:25  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+02:25  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+02:25  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+02:25  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+02:25  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+02:25  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+02:25  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+02:25  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+02:25  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+02:25  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+02:25  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+02:25  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+02:25  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+02:25  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+02:25  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+02:25  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+06:03  INFO: Websocket client disconnected
+06:04  INFO: Socket set
+06:04  INFO: Websocket client connected, counter:0
+06:16  INFO: Event received, data len:265
+06:16  INFO: Message from tanita stored
+06:16  INFO: Data from device:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+06:16  INFO: Event received, data len:0
+06:16  INFO: Entry send to browser:edit-field-fit-measurement-date-und-0-value-datepicker-popup-0;"25/09/2014"
+06:16  INFO: Entry send to browser:edit-field-fit-body-type-und;0
+06:16  INFO: Entry send to browser:edit-field-fit-body-height-und-0-value;191.0
+06:16  INFO: Entry send to browser:edit-field-fit-body-weight-und-0-value;89.2
+06:16  INFO: Entry send to browser:edit-field-fit-body-fat-percentage-und-0-value;18.8
+06:16  INFO: Entry send to browser:edit-field-fit-body-fat-mass-und-0-value;16.8
+06:16  INFO: Entry send to browser:edit-field-fit-body-lean-mass-und-0-value;72.4
+06:16  INFO: Entry send to browser:edit-field-fit-body-muscle-mass-und-0-value;68.8
+06:16  INFO: Entry send to browser:edit-field-fit-body-bone-mass-und-0-value;3.6
+06:16  INFO: Entry send to browser:edit-field-fit-body-total-water-und-0-value;48.0
+06:16  INFO: Entry send to browser:edit-field-fit-body-water-percentage-und-0-value;53.8
+06:16  INFO: Entry send to browser:edit-field-fit-body-bmi-und-0-value;24.5
+06:16  INFO: Entry send to browser:edit-field-fit-target-weight-und-0-value;80.3
+06:16  INFO: Entry send to browser:edit-field-fit-fat-rate-und-0-value;11.1
+06:16  INFO: Entry send to browser:edit­field­fit­body­fat­intestinal­und­0­value;6
+06:16  INFO: Entry send to browser:edit­field­fit­body­energy­needs­und­0­value;8874
+06:16  INFO: Entry send to browser:edit­field­fit­body­metabolic­age­und­0­value;29
+06:16  INFO: Lock released, message send to websocket:{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+08:32  INFO: Websocket client disconnected
+08:33  INFO: Socket set
+08:33  INFO: Websocket client connected, counter:0
+08:38  INFO: Websocket client disconnected
+08:47  INFO: Socket set
+08:47  INFO: Websocket client connected, counter:0
+09:08  INFO: Websocket client disconnected
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:00  INFO: Connecting to com port:COM13
+00:00  INFO: Port succesfully conected
+00:05  INFO: Event received, data len:279
+00:05  INFO: Message from tanita stored
+00:05  INFO: Data from device:{0,16,~0,1,~1,{0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
+00:05  INFO: Event received, data len:0
+00:05 ERROR: Null WEB socket
+00:09  INFO: Socket set
+00:09  INFO: Websocket client connected, counter:0
