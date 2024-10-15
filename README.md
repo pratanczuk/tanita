@@ -227,7 +227,6 @@ Below is an example of what the logs look like when running the test environment
 00:11 INFO: Entry sent to browser: edit-field-fit-body-metabolic-age-und-0-value;29
 00:11 INFO: Lock released, message sent to WebSocket: {0,16,~0,1,~1,1,~2,1,MO,"SC-330",SN,"00000001",ID,"0000000000",Da,"25/09/2014",TI,"08:20",Bt,0,GE,1,AG,34,Hm,191.0,Pt,0.0,Wk,89.2,FW,18.8,fW,16.8,MW,72.4,mW,68.8,sW,13,bW,3.6,wW,48.0,ww,53.8,MI,24.5,Sw,80.3,OV,11.1,IF,6,rb,8874,rB,2121,rJ,13,rA,29,ZF,501.8,CS,D9}
 
-
 ----------
 
 **Note:** Ensure that the paths and configuration settings in the instructions match your actual setup. Adjust the COM port numbers and file paths as necessary.
